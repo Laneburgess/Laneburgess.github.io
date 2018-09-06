@@ -2,6 +2,11 @@
   background-color: rgb(74, 128, 254);
   border-style: dotted;
 }
+.navbar-header {
+    height: 200px;
+    width: 50%;
+    background-color: white;
+}
 .subheader{
  text-align:center; 
 }
