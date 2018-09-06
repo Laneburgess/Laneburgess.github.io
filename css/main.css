@@ -1,6 +1,6 @@
 #portfolio-title{
   background-color: rgb(74, 128, 254);
-  border-style: solid;
+  border-style: dotted;
 }
 .subheader{
  text-align:center; 
@@ -24,12 +24,12 @@ body {
 }
 @keyframes header {
     from {background-color: black;}
-    to {background-color: white;}
+    to {background-color: rgb(74, 128, 254);}
 }
 portfolio-title {
     width: 90px;
     height: 30px;
-    background-color: white;
-    animation-name: example;
+    background-color: rgb(74, 128, 254);
+    animation-name: header;
     animation-duration: 2s;
 }
