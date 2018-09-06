@@ -1,6 +1,6 @@
 #portfolio-title{
   background-color: cyan;
-  border-style: dotted;
+  border-style: inset;
 }
 .subheader{
  text-align:center; 
@@ -16,9 +16,9 @@
 
 /* The element to apply the animation to */
 navbar-header {
-    width: 500px;
-    height: 500px;
+    width: 100px;
+    height: 100px;
     background-color: red;
     animation-name: example;
-    animation-duration: 7s;
+    animation-duration: 4s;
 }
