@@ -23,11 +23,11 @@ body {
     animation-duration: 2s;
 }
 @keyframes header {
-    from {background-color: black;}
+    from {background-color: white;}
     to {background-color: rgb(74, 128, 254);}
 }
 #portfolio-title {
     background-color: rgb(74, 128, 254);
     animation-name: header;
-    animation-duration: 2s;
+    animation-duration: 4s;
 }
