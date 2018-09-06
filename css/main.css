@@ -26,9 +26,7 @@ body {
     from {background-color: black;}
     to {background-color: rgb(74, 128, 254);}
 }
-portfolio-title {
-    width: 90px;
-    height: 30px;
+#portfolio-title {
     background-color: rgb(74, 128, 254);
     animation-name: header;
     animation-duration: 2s;
