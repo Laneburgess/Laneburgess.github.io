@@ -16,9 +16,9 @@
 
 /* The element to apply the animation to */
 body {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     background-color: white;
     animation-name: example;
-    animation-duration: 10s;
+    animation-duration: 2s;
 }
