@@ -1,5 +1,5 @@
 #portfolio-title{
-  background-color: cyan;
+  background-color: dotted;
   border-style: solid;
 }
 .subheader{
@@ -18,7 +18,7 @@
 body {
     width: 100px;
     height: 100px;
-    background-color: black;
+    background-color: white;
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 10s;
 }
