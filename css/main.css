@@ -1,6 +1,6 @@
 #portfolio-title{
   background-color: rgb(74, 128, 254);
-  border-style: solid;
+  border-style: dotted;
 }
 .subheader{
  text-align:center; 
@@ -39,7 +39,7 @@ body {
 
 /* Clear floats after the columns */
 .row:after {
-    content: "";
+    content: "RANDOM STUFFFFF";
     display: table;
     clear: both;
 }
