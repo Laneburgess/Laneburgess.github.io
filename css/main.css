@@ -1,6 +1,6 @@
 #portfolio-title{
   background-color: rgb(74, 128, 254);
-  border-style: dotted;
+  border-style: solid;
 }
 .subheader{
  text-align:center; 
@@ -32,5 +32,17 @@ body {
 #portfolio-title {
     background-color: rgb(74, 128, 254);
     animation-name: header;
+    animation-duration: 4s;
+}
+@keyframes tester {
+    0%   {background-color:white; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:red; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:rgb(74, 128, 254; left:0px; top:0px;}
+}
+test {
+    background-color: rgb(74, 128, 254);
+    animation-name: tester;
     animation-duration: 4s;
 }
