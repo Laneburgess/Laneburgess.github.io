@@ -15,7 +15,7 @@
 }
 
 /* The element to apply the animation to */
-div {
+navbar-header {
     width: 1000px;
     height: 1000px;
     background-color: red;
