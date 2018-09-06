@@ -41,7 +41,7 @@ body {
     75%  {background-color:green; left:0px; top:200px;}
     100% {background-color:rgb(74, 128, 254; left:0px; top:0px;}
 }
-test {
+div {
     background-color: rgb(74, 128, 254);
     animation-name: tester;
     animation-duration: 4s;
