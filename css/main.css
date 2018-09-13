@@ -5,6 +5,9 @@
   border-bottom-style: solid;
   border-color: grey;
 }
+p.lead {
+ font-size: 10; 
+}
 p {
   text-align: left;
   font-family: "Times New Roman", Times, serif;
