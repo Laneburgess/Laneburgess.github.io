@@ -42,4 +42,5 @@ li a:hover {
 }
 div {
     column-count: 2;
+  coulmn-span: 2;
 }
