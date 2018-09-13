@@ -1,6 +1,9 @@
 #portfolio-title{
   text-align: left;
 }
+p {
+  text-align: left;
+}
 .navbar-header {
     height: 60px;
     width: 10%;
