@@ -3,55 +3,8 @@
   border-style: solid;
 }
 .navbar-header {
-    height: 55px;
+    height: 60px;
     width: 10%;
     background-color: white;
 }
-.subheader{
- text-align:center; 
-}
-.bod{
-  text-align:center;
-}
-/* The animation code */
-@keyframes example {
-    from {background-color: black;}
-    to {background-color: white;}
-}
 
-/* The element to apply the animation to */
-body {
-    width: 90px;
-    height: 90px;
-    background-color: white;
-    animation-name: example;
-    animation-duration: 2s;
-}
-@keyframes header {
-    from {background-color: yellow;}
-    to {background-color: rgb(74, 128, 254);}
-}
-#portfolio-title {
-    background-color: rgb(74, 128, 254);
-    animation-name: header;
-    animation-duration: 4s;
-}
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 33.33%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "RANDOM STUFFFFF";
-    display: table;
-    clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
-@media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
-    }
-}
