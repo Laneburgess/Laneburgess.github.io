@@ -40,3 +40,6 @@ li a {
 li a:hover {
     background-color:#f1f1f1 ;
 }
+div {
+    column-count: 2;
+}
