@@ -1,13 +1,13 @@
 #portfolio-title {
   text-align: left;
-  font-family: "Lucida Console", Lucida Console, monospace;
+  font-family: "Times New Roman", Times, serif;
   font-style: italic;
   border-bottom-style: solid;
   border-color: grey;
 }
 p {
   text-align: left;
-  font-family: "Arial", Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 .navbar-header {
     
