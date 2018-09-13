@@ -12,7 +12,10 @@ p, h4 {
   text-align: left;
   font-family: "Times New Roman", Times, serif;
 }
-.navbar-header {
-    
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
