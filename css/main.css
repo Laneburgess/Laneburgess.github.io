@@ -1,6 +1,7 @@
 #portfolio-title {
   text-align: left;
   font-family: "Lucida Console", Lucida Console, monospace;
+  font-style: italic;
   border-bottom-style: solid;
   border-color: grey;
 }
