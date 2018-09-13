@@ -24,6 +24,9 @@ ul {
 li {
     float: left;
 }
+li.right {
+ float: right; 
+}
 
 li a {
     display: block;
