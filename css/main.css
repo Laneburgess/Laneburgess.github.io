@@ -8,11 +8,14 @@
 p.lead {
  font-size: 20px; 
 }
-p, h4 {
+p, h4, h5{
   text-align: left;
   font-family: "Times New Roman", Times, serif;
 }
 
+h4{
+ font-style: italic; 
+}
 ul {
     list-style-type: none;
     margin: 0;
