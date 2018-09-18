@@ -8,6 +8,10 @@
 p.lead {
  font-size: 15px; 
 }
+h4{
+ border-bottom-style: solid;
+  border-color: grey; 
+}
 p, h4 {
   text-align: left;
   font-family: "Times New Roman", Times, serif;
