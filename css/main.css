@@ -10,7 +10,8 @@ p.lead {
 }
 h4{
  border-bottom-style: solid;
-  border-color: grey; 
+  border-color: grey;
+  border-width: 2px;
 }
 p, h4 {
   text-align: left;
